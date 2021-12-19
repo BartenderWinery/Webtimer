@@ -2,7 +2,7 @@ from termcolor import *
 from time import strftime
 import requests, colorama
 
-cprint("Confused? Dropoff ID is upload file input on your Domain; Not the button", "red")
+cprint("Confused? Post a issue!", "red")
 
 Domain = input("Dropoff Domain: "); released=0
 Package = input("Package (file path): ")
